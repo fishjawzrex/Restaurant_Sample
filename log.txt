@@ -1,0 +1,8 @@
+First fix is to make the button center aligned in the div cards
+
+Second is to make a quantity drop down menu and have the selected option replace
+the displayed value.
+
+Need to get api key and set  up the direction feature on the google map/navigation api
+
+Shopping cart and billing.
